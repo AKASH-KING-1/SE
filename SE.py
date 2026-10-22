@@ -1,3 +1,1 @@
-import SE
-except: 
-      pass
+try:import SE
