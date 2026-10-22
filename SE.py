@@ -1,2 +1,2 @@
 import SE
-except pass
+except: pass
